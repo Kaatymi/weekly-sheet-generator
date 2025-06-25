@@ -9,7 +9,6 @@ This Google Sheets automation script generates weekly folders and files based on
 ├ 📄 File 3 - Main Input (e.g. "File 3 - Main Input - 6/24/2025 - 6/28/2025")
 ├ 📄 File 4 - Report (e.g. "File 4 - Report - 6/28/2025") → sheet: "Report WE 6/28/2025 Dest"
 ```
-
 ---
 
 ## ✅ Features

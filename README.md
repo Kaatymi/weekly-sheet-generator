@@ -2,6 +2,8 @@
 
 This Google Sheets automation script generates weekly folders and files based on user-defined Monday–Friday dates. It creates 4 Google Sheets files inside a Drive folder:
 
+![Demo](demo.gif)
+
 ```
 📂  6/24/2025 - 6/28/2025
 ├ 📄 File 1 - Main Input (e.g. "File 1 - Main Input - 6/24/2025 - 6/28/2025")
